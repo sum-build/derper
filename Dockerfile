@@ -1,6 +1,6 @@
 FROM golang:latest AS builder
 
-LABEL org.opencontainers.image.source https://github.com/yangchuansheng/docker-image
+LABEL org.opencontainers.image.source https://github.com/sum-build/derper
 
 WORKDIR /app
 
